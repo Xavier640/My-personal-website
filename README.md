@@ -4,3 +4,4 @@
 
 The background is a screenshot i took from Universe Sandbox 2. I placed my most important projects nice and neatly on their specific section, and also a short section about me 😊
 
+All my projects are linked to their github page, each detailed in their readme.
