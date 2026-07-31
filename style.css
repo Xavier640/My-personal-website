@@ -20,3 +20,6 @@ div{
 body{
     background-image: url("Images/Background.png")
 }
+.readable{
+    color: white;
+}
