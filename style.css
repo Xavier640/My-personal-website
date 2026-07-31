@@ -17,6 +17,6 @@ projects{
     font-family: Arial;
     font-size: 30px;
 }
-background{
-    background-image: url(Images/Background.png);
+body{
+    background-image: url("Images/Background.png")
 }
