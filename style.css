@@ -8,3 +8,9 @@ front_page{
     height: 170px;
     width: 200px;
 }
+projects{
+    background-color: rgb(0, 255, 0);
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
