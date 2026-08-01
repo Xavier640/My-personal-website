@@ -3,23 +3,45 @@ div{
     height: 100px;
     width: 100px;
 }
-.front_page{
-    background-color: rgb(0, 0, 255);
-    height: 230px;
-    width: 400px;
-    font-size: 30px;
+.navbar ul{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: hsl(0, 0%, 25%);
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 15px;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+.navbar li{
+    float: left;
 }
 .projects{
-    background-color: rgb(0, 255, 0);
-    height: 170px;
-    width: 300px;
+    background-color: rgb(76, 80, 76);
+    height: 70px;
+    width: 200px;
     text-align: center;
     font-family: Arial;
-    font-size: 30px;
+    border: 1px solid black;
 }
 body{
-    background-image: url("Images/Background.png")
+    background-image: url(Images/Background.png);
+    margin: 0;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .readable{
+    color: white;
+}
+.title{
+    text-align: center;
     color: white;
 }
